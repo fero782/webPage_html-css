@@ -1,0 +1,96 @@
+*,
+a,
+body {
+    margin: 0;
+    background-color: rgb(0, 0, 0);
+    text-decoration-line: none;
+
+}
+
+
+.head_ul li {
+    float: right;
+    margin: 15px;
+    font-weight: bold;
+    list-style: none;
+
+}
+
+
+
+.logo {
+    float: left;
+    margin: 10px 15px;
+    image-resolution: 50px;
+    border-radius: 20px;
+
+
+}
+
+.Header {
+    position: fixed;
+    border-bottom: 2px solid #fcf808;
+    background-color: black;
+    height: 60px;
+    width: 100%;
+
+}
+
+/**********************************************************/
+.slder {
+
+    background-image: url(image/1.jpg);
+    height: 600px;
+    background-size: cover;
+
+}
+
+.t_slder {
+
+    border-top: 90px solid rgba(255, 255, 255, 0);
+}
+
+
+
+/*************************************************************/
+.i {
+    border-radius: 20px;
+    width: 200px;
+    height: 200px;
+    border: #03fc18 4px solid;
+    padding: 2px;
+    margin: 2px;
+}
+
+/*************************************************************/
+hr {
+    color: #fcf808;
+    width: 90%;
+    margin: 10px;
+}
+
+/*-------------------------------------------------------------*/
+.frem {
+    border: #03fc18 2px solid;
+    border-radius: 10px;
+    padding: 3px 5px;
+
+}
+
+/*-------------------------------------------------------------*/
+form :hover {
+    color: rgba(10, 243, 22, 0.847);
+
+
+}
+
+/*************************************************************/
+.r {
+    color: #fcf808;
+}
+
+.r :hover {
+    color: rgba(10, 243, 22, 0.847);
+
+
+}
